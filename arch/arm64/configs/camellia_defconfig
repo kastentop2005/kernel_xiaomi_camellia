@@ -1,6 +1,6 @@
 CONFIG_CROSS_COMPILE="aarch64-linux-android-"
 #BSP.System - 2020.11.11 - add compile commit id
-CONFIG_LOCALVERSION="-perf"
+CONFIG_LOCALVERSION="-testOSS"
 CONFIG_LOCALVERSION_AUTO=y
 # CONFIG_FHANDLE is not set
 CONFIG_IKHEADERS=m
